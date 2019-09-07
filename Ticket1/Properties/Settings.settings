@@ -1,0 +1,336 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ticket1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="button1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">是</Value>
+    </Setting>
+    <Setting Name="label1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">用户名</Value>
+    </Setting>
+    <Setting Name="label" Type="System.String" Scope="User">
+      <Value Profile="(Default)">密码</Value>
+    </Setting>
+    <Setting Name="button2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">注册</Value>
+    </Setting>
+    <Setting Name="button3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">登录</Value>
+    </Setting>
+    <Setting Name="管理员登录" Type="System.String" Scope="User">
+      <Value Profile="(Default)">checkBox1</Value>
+    </Setting>
+    <Setting Name="checkBox1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">管理员登录</Value>
+    </Setting>
+    <Setting Name="查看信息" Type="System.String" Scope="User">
+      <Value Profile="(Default)">button1</Value>
+    </Setting>
+    <Setting Name="userbutton1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查看信息</Value>
+    </Setting>
+    <Setting Name="userbotton2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">修改信息</Value>
+    </Setting>
+    <Setting Name="idlabel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">用户id</Value>
+    </Setting>
+    <Setting Name="namelabel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">姓名</Value>
+    </Setting>
+    <Setting Name="idlb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">用户id：</Value>
+    </Setting>
+    <Setting Name="namelb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">姓名：</Value>
+    </Setting>
+    <Setting Name="idcodelb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">身份证号：</Value>
+    </Setting>
+    <Setting Name="sexlb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">性别</Value>
+    </Setting>
+    <Setting Name="sex1lb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">性别：</Value>
+    </Setting>
+    <Setting Name="agelb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">年龄：</Value>
+    </Setting>
+    <Setting Name="userbutton3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">完成</Value>
+    </Setting>
+    <Setting Name="userclear" Type="System.String" Scope="User">
+      <Value Profile="(Default)">清空</Value>
+    </Setting>
+    <Setting Name="adminbt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">添加线路</Value>
+    </Setting>
+    <Setting Name="label11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">线路id：</Value>
+    </Setting>
+    <Setting Name="label12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">起点</Value>
+    </Setting>
+    <Setting Name="alvel2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">起点：</Value>
+    </Setting>
+    <Setting Name="label13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">终点：</Value>
+    </Setting>
+    <Setting Name="label14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">发车时间</Value>
+    </Setting>
+    <Setting Name="label15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">到达时间</Value>
+    </Setting>
+    <Setting Name="label17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">车牌号：</Value>
+    </Setting>
+    <Setting Name="la11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">到达时间：</Value>
+    </Setting>
+    <Setting Name="lb11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">发车时间：</Value>
+    </Setting>
+    <Setting Name="lb12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">座位数：</Value>
+    </Setting>
+    <Setting Name="lb13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">价格：</Value>
+    </Setting>
+    <Setting Name="lb15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">添加</Value>
+    </Setting>
+    <Setting Name="l15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查询线路</Value>
+    </Setting>
+    <Setting Name="lb17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">要查询的目的地</Value>
+    </Setting>
+    <Setting Name="lb18" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查询</Value>
+    </Setting>
+    <Setting Name="lb19" Type="System.String" Scope="User">
+      <Value Profile="(Default)">要查询的目的地：</Value>
+    </Setting>
+    <Setting Name="lb20" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查看全部</Value>
+    </Setting>
+    <Setting Name="lb21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">更新线路</Value>
+    </Setting>
+    <Setting Name="lb22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">更新</Value>
+    </Setting>
+    <Setting Name="lb23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查找</Value>
+    </Setting>
+    <Setting Name="lb24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">清空</Value>
+    </Setting>
+    <Setting Name="lb26" Type="System.String" Scope="User">
+      <Value Profile="(Default)">添加车辆</Value>
+    </Setting>
+    <Setting Name="lb27" Type="System.String" Scope="User">
+      <Value Profile="(Default)">全部订单</Value>
+    </Setting>
+    <Setting Name="lb28" Type="System.String" Scope="User">
+      <Value Profile="(Default)">更改密码</Value>
+    </Setting>
+    <Setting Name="lb29" Type="System.String" Scope="User">
+      <Value Profile="(Default)">删除</Value>
+    </Setting>
+    <Setting Name="lb30" Type="System.String" Scope="User">
+      <Value Profile="(Default)">车牌号：</Value>
+    </Setting>
+    <Setting Name="lb31" Type="System.String" Scope="User">
+      <Value Profile="(Default)">司机：</Value>
+    </Setting>
+    <Setting Name="lb32" Type="System.String" Scope="User">
+      <Value Profile="(Default)">座位数：</Value>
+    </Setting>
+    <Setting Name="lb33" Type="System.String" Scope="User">
+      <Value Profile="(Default)">车辆类型：</Value>
+    </Setting>
+    <Setting Name="lb34" Type="System.String" Scope="User">
+      <Value Profile="(Default)">添加</Value>
+    </Setting>
+    <Setting Name="lb35" Type="System.String" Scope="User">
+      <Value Profile="(Default)">修改</Value>
+    </Setting>
+    <Setting Name="lb36" Type="System.String" Scope="User">
+      <Value Profile="(Default)">清空</Value>
+    </Setting>
+    <Setting Name="lb40" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Id</Value>
+    </Setting>
+    <Setting Name="lb41" Type="System.String" Scope="User">
+      <Value Profile="(Default)">要修改的Id:</Value>
+    </Setting>
+    <Setting Name="lb42" Type="System.String" Scope="User">
+      <Value Profile="(Default)">输入原密码：</Value>
+    </Setting>
+    <Setting Name="lb43" Type="System.String" Scope="User">
+      <Value Profile="(Default)">输入新密码：</Value>
+    </Setting>
+    <Setting Name="lb44" Type="System.String" Scope="User">
+      <Value Profile="(Default)">确定</Value>
+    </Setting>
+    <Setting Name="lb45" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查询线路</Value>
+    </Setting>
+    <Setting Name="lb46" Type="System.String" Scope="User">
+      <Value Profile="(Default)">修改密码</Value>
+    </Setting>
+    <Setting Name="lb48" Type="System.String" Scope="User">
+      <Value Profile="(Default)">购票</Value>
+    </Setting>
+    <Setting Name="lb49" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查看</Value>
+    </Setting>
+    <Setting Name="lb50" Type="System.String" Scope="User">
+      <Value Profile="(Default)">购买</Value>
+    </Setting>
+    <Setting Name="lb51" Type="System.String" Scope="User">
+      <Value Profile="(Default)">输入要购买的线路ID：</Value>
+    </Setting>
+    <Setting Name="lb52" Type="System.String" Scope="User">
+      <Value Profile="(Default)">线路ID:</Value>
+    </Setting>
+    <Setting Name="lb53" Type="System.String" Scope="User">
+      <Value Profile="(Default)">起点：</Value>
+    </Setting>
+    <Setting Name="lb54" Type="System.String" Scope="User">
+      <Value Profile="(Default)">终点：</Value>
+    </Setting>
+    <Setting Name="lb55" Type="System.String" Scope="User">
+      <Value Profile="(Default)">发车时间：</Value>
+    </Setting>
+    <Setting Name="lb56" Type="System.String" Scope="User">
+      <Value Profile="(Default)">到达时间：</Value>
+    </Setting>
+    <Setting Name="lb57" Type="System.String" Scope="User">
+      <Value Profile="(Default)">车牌号：</Value>
+    </Setting>
+    <Setting Name="lb58" Type="System.String" Scope="User">
+      <Value Profile="(Default)">剩余座位：</Value>
+    </Setting>
+    <Setting Name="lb59" Type="System.String" Scope="User">
+      <Value Profile="(Default)">价格：</Value>
+    </Setting>
+    <Setting Name="lb60" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查看订单</Value>
+    </Setting>
+    <Setting Name="lb61" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查看</Value>
+    </Setting>
+    <Setting Name="lb62" Type="System.String" Scope="User">
+      <Value Profile="(Default)">删除</Value>
+    </Setting>
+    <Setting Name="lb63" Type="System.String" Scope="User">
+      <Value Profile="(Default)">车辆管理</Value>
+    </Setting>
+    <Setting Name="lb64" Type="System.String" Scope="User">
+      <Value Profile="(Default)">目的地：</Value>
+    </Setting>
+    <Setting Name="lb65" Type="System.String" Scope="User">
+      <Value Profile="(Default)">时间</Value>
+    </Setting>
+    <Setting Name="lb66" Type="System.String" Scope="User">
+      <Value Profile="(Default)">时间：</Value>
+    </Setting>
+    <Setting Name="lb67" Type="System.String" Scope="User">
+      <Value Profile="(Default)">中间站点：</Value>
+    </Setting>
+    <Setting Name="lb68" Type="System.String" Scope="User">
+      <Value Profile="(Default)">本人购买</Value>
+    </Setting>
+    <Setting Name="lb69" Type="System.String" Scope="User">
+      <Value Profile="(Default)">输入要代买人的信息：</Value>
+    </Setting>
+    <Setting Name="lb70" Type="System.String" Scope="User">
+      <Value Profile="(Default)">姓名：</Value>
+    </Setting>
+    <Setting Name="lb71" Type="System.String" Scope="User">
+      <Value Profile="(Default)">证件号：</Value>
+    </Setting>
+    <Setting Name="lb72" Type="System.String" Scope="User">
+      <Value Profile="(Default)">代买</Value>
+    </Setting>
+    <Setting Name="lb73" Type="System.String" Scope="User">
+      <Value Profile="(Default)">中间站：</Value>
+    </Setting>
+    <Setting Name="lb74" Type="System.String" Scope="User">
+      <Value Profile="(Default)">线路管理</Value>
+    </Setting>
+    <Setting Name="lb75" Type="System.String" Scope="User">
+      <Value Profile="(Default)">出发地：</Value>
+    </Setting>
+    <Setting Name="lb76" Type="System.String" Scope="User">
+      <Value Profile="(Default)">中间站1：</Value>
+    </Setting>
+    <Setting Name="lb77" Type="System.String" Scope="User">
+      <Value Profile="(Default)">中间站2：</Value>
+    </Setting>
+    <Setting Name="lb78" Type="System.String" Scope="User">
+      <Value Profile="(Default)">中间站3：</Value>
+    </Setting>
+    <Setting Name="lb79" Type="System.String" Scope="User">
+      <Value Profile="(Default)">终点：</Value>
+    </Setting>
+    <Setting Name="lb80" Type="System.String" Scope="User">
+      <Value Profile="(Default)">添加</Value>
+    </Setting>
+    <Setting Name="lb81" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查看</Value>
+    </Setting>
+    <Setting Name="lb82" Type="System.String" Scope="User">
+      <Value Profile="(Default)">修改</Value>
+    </Setting>
+    <Setting Name="lb83" Type="System.String" Scope="User">
+      <Value Profile="(Default)">删除</Value>
+    </Setting>
+    <Setting Name="lb84" Type="System.String" Scope="User">
+      <Value Profile="(Default)">button5</Value>
+    </Setting>
+    <Setting Name="lb85" Type="System.String" Scope="User">
+      <Value Profile="(Default)">清空</Value>
+    </Setting>
+    <Setting Name="lb86" Type="System.String" Scope="User">
+      <Value Profile="(Default)">线路编号：</Value>
+    </Setting>
+    <Setting Name="lb87" Type="System.String" Scope="User">
+      <Value Profile="(Default)">取消订单</Value>
+    </Setting>
+    <Setting Name="lb89" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查看</Value>
+    </Setting>
+    <Setting Name="lb88" Type="System.String" Scope="User">
+      <Value Profile="(Default)">购票ID：</Value>
+    </Setting>
+    <Setting Name="lb90" Type="System.String" Scope="User">
+      <Value Profile="(Default)">出发地：</Value>
+    </Setting>
+    <Setting Name="lb91" Type="System.String" Scope="User">
+      <Value Profile="(Default)">目的地：</Value>
+    </Setting>
+    <Setting Name="lb92" Type="System.String" Scope="User">
+      <Value Profile="(Default)">查询</Value>
+    </Setting>
+    <Setting Name="lb93" Type="System.String" Scope="User">
+      <Value Profile="(Default)">本人购买</Value>
+    </Setting>
+    <Setting Name="lb94" Type="System.String" Scope="User">
+      <Value Profile="(Default)">label4</Value>
+    </Setting>
+    <Setting Name="lb95" Type="System.String" Scope="User">
+      <Value Profile="(Default)">身份证号：</Value>
+    </Setting>
+    <Setting Name="lb96" Type="System.String" Scope="User">
+      <Value Profile="(Default)">姓名：</Value>
+    </Setting>
+    <Setting Name="lb97" Type="System.String" Scope="User">
+      <Value Profile="(Default)">购买</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
